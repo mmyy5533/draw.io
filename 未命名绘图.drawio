@@ -79,14 +79,14 @@
         <mxCell id="0sViE0N4q2fA2vqgWWMA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;预处理模块&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="210" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="0sViE0N4q2fA2vqgWWMA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;预处理模块&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="90" x="369" y="380" as="geometry" />
-        </mxCell>
         <mxCell id="0sViE0N4q2fA2vqgWWMA-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.517241379310345;endSize=2.7586206896551726;endWidth=7.2294887039239;fillColor=#FD9997;strokeColor=#FD9997;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="209.43" y="485" as="sourcePoint" />
             <mxPoint x="209.43" y="505" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0sViE0N4q2fA2vqgWWMA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E2EBF2;" value="&lt;b&gt;客户端入口&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="260" x="80" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
