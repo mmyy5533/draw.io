@@ -283,16 +283,16 @@
         <mxCell id="9-xRbW745rNaPbTgYqh5-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF7884;fillColor=#FBE5D7;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="60" width="290" x="501" y="1232" as="geometry" />
         </mxCell>
-        <mxCell id="9-xRbW745rNaPbTgYqh5-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#588FB2;strokeWidth=2;" value="&lt;b&gt;车载本地数据结构化组织层&lt;/b&gt;" vertex="1">
+        <mxCell id="9-xRbW745rNaPbTgYqh5-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#588FB2;strokeWidth=2;" value="&lt;b&gt;云端数据中心强事务存储层&lt;/b&gt;" vertex="1">
           <mxGeometry height="20" width="260" x="517" y="1238" as="geometry" />
         </mxCell>
-        <mxCell id="9-xRbW745rNaPbTgYqh5-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;时间戳&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="70" x="517" y="1264" as="geometry" />
+        <mxCell id="9-xRbW745rNaPbTgYqh5-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;高频传感索引&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="83" x="517" y="1264" as="geometry" />
         </mxCell>
-        <mxCell id="9-xRbW745rNaPbTgYqh5-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;多模态数据源&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="80" x="603" y="1265" as="geometry" />
+        <mxCell id="9-xRbW745rNaPbTgYqh5-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;强一致性回滚&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="609" y="1264" as="geometry" />
         </mxCell>
-        <mxCell id="9-xRbW745rNaPbTgYqh5-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;路径规范化&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="9-xRbW745rNaPbTgYqh5-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6195AF;strokeWidth=2;dashed=1;" value="&lt;font color=&quot;#6195af&quot;&gt;&lt;b&gt;外键级联绑定&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="80" x="697" y="1264" as="geometry" />
         </mxCell>
         <mxCell id="9-xRbW745rNaPbTgYqh5-72" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.517241379310345;endSize=2.7586206896551726;endWidth=7.2294887039239;fillColor=#FD9997;strokeColor=#FD9997;" value="">
